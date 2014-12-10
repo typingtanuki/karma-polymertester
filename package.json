@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Mathias Clerc"
+  },
+  "name": "karma-polymertester",
+  "description": "karma adapter for using HTML tests",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "scripts": {},
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter"
+  ],
+  "license": "Commercial",
+  "bugs": {  },
+  "maintainers": [  ],
+  "directories": {}
+}
