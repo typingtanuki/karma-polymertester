@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "hoempage": "https://github.com/typingtanuki/karma-polymertester",
-  "bugs": { url:"https://github.com/typingtanuki/karma-polymertester/issues" },
-  "maintainers": [ {name: "Clerc Mathias", email:"typingtanuki@gmail.com"}  ],
+  "bugs": { "url":"https://github.com/typingtanuki/karma-polymertester/issues" },
+  "maintainers": [ {"name": "Clerc Mathias", "email":"typingtanuki@gmail.com"}  ],
   "directories": {}
 }
