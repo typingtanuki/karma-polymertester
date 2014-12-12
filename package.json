@@ -6,6 +6,11 @@
   "description": "karma adapter for using HTML tests",
   "version": "0.0.1",
   "main": "lib/index.js",
+  "peerDependencies": {
+    "karma-chai": "*",
+    "karma-mocha": "*",
+    "karma-detect-browsers": "*"
+  },
   "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {},
