@@ -4,7 +4,7 @@
   },
   "name": "karma-polymertester",
   "description": "karma adapter for using HTML tests",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "peerDependencies": {
     "karma-chai": "*",
